@@ -8,13 +8,12 @@
     - [Implementing and Managing Federated Identities for SSO](https://app.pluralsight.com/library/courses/sso-federated-identities-managing-implementing)
     - [Monitoring and Troubleshooting Office 365 Availability and Usage](https://app.pluralsight.com/library/courses/o365-monitor-troubleshoot-availability-usage)
     
-    * 
     
 [Windows Server 2012 R2 Certificate Services](https://app.pluralsight.com/library/courses/windows-server-2012-r2-certificate-services/table-of-contents)
 
 [Establishing Goals, Roles, and Guidelines for a Team](https://app.pluralsight.com/library/courses/establish-team-goals-roles-guidelines/table-of-contents)
 
-[Pitching Your Idea Effectively}(https://app.pluralsight.com/library/courses/pitching-idea-effectively/table-of-contents)
+[Pitching Your Idea Effectively](https://app.pluralsight.com/library/courses/pitching-idea-effectively/table-of-contents)
 
 [Understanding Machine Learning](https://app.pluralsight.com/library/courses/understanding-machine-learning/table-of-contents)
 
