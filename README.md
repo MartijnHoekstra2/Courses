@@ -2,30 +2,10 @@
 ------
 
 
-* ## [Managing Office 365 Identities and Requirements (70-346)](https://app.pluralsight.com/paths/certificate/office-365-70-346)
-    - [Provisioning Office 365](https://app.pluralsight.com/library/courses/office-365-provisioning)
-    - [Planning and Implementing Networking and Security in Office 365](https://app.pluralsight.com/library/courses/planning-implementing-networking-security-o365)
-    - [Managing Cloud Identities in Office 365](https://app.pluralsight.com/library/courses/managing-cloud-identities-o365)
-    - [Implement and Manage Identities Using Azure AD Connect for Office 365](https://app.pluralsight.com/library/courses/implement-manage-identities-azure-ad-o365)
-    - [Implementing and Managing Federated Identities for SSO](https://app.pluralsight.com/library/courses/sso-federated-identities-managing-implementing)
-    - [Monitoring and Troubleshooting Office 365 Availability and Usage](https://app.pluralsight.com/library/courses/o365-monitor-troubleshoot-availability-usage)
-------
-
-
 * ## [Communications for Technologists Path](https://pluralsight.com/paths/certificate/communications-for-technologists)
     - [Writing Process Instructions and Directions](https://app.pluralsight.com/library/courses/process-instructions)
     - [Writing in the Workplace: Email, Memos, Reports, and Social Messaging](https://app.pluralsight.com/library/courses/writing-workplace-email-memos-reports-social)
     - [End-user Communications for Better IT](https://app.pluralsight.com/library/courses/end-user-communications-better-it)
-------    
-
-
-* ## [MCSA: Windows Server 2012 R2 Path](https://pluralsight.com/paths/certificate/mcsa)
-    - [Windows Server 2012 R2 (70-410) MCSA and the 70-410 Exam](https://app.pluralsight.com/library/courses/windows-server-2012-mcsa-70-410)
-    - [Windows Server 2012 R2 (70-410) Install and Configure Servers](https://app.pluralsight.com/library/courses/windows-server-2012-70-410-install-configure-servers)
-    - [Windows Server 2012 R2 (70-410) Core Network Services](https://app.pluralsight.com/library/courses/windows-server-2012-70-410-core-network-services)    
-    - [Windows Server 2012 R2 (70-410) Administer Active Directory](https://app.pluralsight.com/library/courses/windows-server-2012-70-410-active-directory)    
-    - [Windows Server 2012 R2 (70-411) MCSA and the 70-411 Exam](https://app.pluralsight.com/library/courses/windows-server-2012-mcsa-70-411/table-of-contents)
-    - [Windows Server 2012 R2 (70-411) File and Print Services](https://app.pluralsight.com/library/courses/windows-server-2012-70-411-file-print-services)
 ------
 
 
@@ -51,6 +31,26 @@
     - [Ethical Hacking: Cryptography](https://app.pluralsight.com/library/courses/ethical-hacking-cryptography)
     - [SSCP®: Cryptography](https://app.pluralsight.com/library/courses/sscp2015-cryptography)
     - [Ethical Hacking: Penetration Testing](https://app.pluralsight.com/library/courses/ethical-hacking-penetration-testing)
+------
+
+
+* ## [Managing Office 365 Identities and Requirements (70-346)](https://app.pluralsight.com/paths/certificate/office-365-70-346)
+    - [Provisioning Office 365](https://app.pluralsight.com/library/courses/office-365-provisioning)
+    - [Planning and Implementing Networking and Security in Office 365](https://app.pluralsight.com/library/courses/planning-implementing-networking-security-o365)
+    - [Managing Cloud Identities in Office 365](https://app.pluralsight.com/library/courses/managing-cloud-identities-o365)
+    - [Implement and Manage Identities Using Azure AD Connect for Office 365](https://app.pluralsight.com/library/courses/implement-manage-identities-azure-ad-o365)
+    - [Implementing and Managing Federated Identities for SSO](https://app.pluralsight.com/library/courses/sso-federated-identities-managing-implementing)
+    - [Monitoring and Troubleshooting Office 365 Availability and Usage](https://app.pluralsight.com/library/courses/o365-monitor-troubleshoot-availability-usage)
+------
+
+
+* ## [MCSA: Windows Server 2012 R2 Path](https://pluralsight.com/paths/certificate/mcsa)
+    - [Windows Server 2012 R2 (70-410) MCSA and the 70-410 Exam](https://app.pluralsight.com/library/courses/windows-server-2012-mcsa-70-410)
+    - [Windows Server 2012 R2 (70-410) Install and Configure Servers](https://app.pluralsight.com/library/courses/windows-server-2012-70-410-install-configure-servers)
+    - [Windows Server 2012 R2 (70-410) Core Network Services](https://app.pluralsight.com/library/courses/windows-server-2012-70-410-core-network-services)    
+    - [Windows Server 2012 R2 (70-410) Administer Active Directory](https://app.pluralsight.com/library/courses/windows-server-2012-70-410-active-directory)    
+    - [Windows Server 2012 R2 (70-411) MCSA and the 70-411 Exam](https://app.pluralsight.com/library/courses/windows-server-2012-mcsa-70-411/table-of-contents)
+    - [Windows Server 2012 R2 (70-411) File and Print Services](https://app.pluralsight.com/library/courses/windows-server-2012-70-411-file-print-services)
 ------
 
 
