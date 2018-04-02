@@ -22,7 +22,7 @@
     - [Windows Server 2012 R2 (70-411) MCSA and the 70-411 Exam](https://pluralsight.com/library/courses/windows-server-2012-mcsa-70-411/table-of-contents)
     - [Windows Server 2012 R2 (70-411) File and Print Services](https://pluralsight.com/library/courses/windows-server-2012-70-411-file-print-services)
 
-* ###[Ethical Hacking (CEH Prep) Path](https://app.pluralsight.com/paths/certificate/ethical-hacking)
+* ### [Ethical Hacking (CEH Prep) Path](https://app.pluralsight.com/paths/certificate/ethical-hacking)
     - [Ethical Hacking: Understanding Ethical Hacking](https://pluralsight.com/library/courses/ethical-hacking-understanding)
     - [Ethical Hacking: Reconnaissance/Footprinting](https://pluralsight.com/library/courses/ethical-hacking-reconnaissance-footprinting)
     - [Ethical Hacking: Scanning Networks](https://pluralsight.com/library/courses/ethical-hacking-scanning-networks)
