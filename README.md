@@ -21,30 +21,39 @@
     - [Windows Server 2012 R2 (70-411) MCSA and the 70-411 Exam](https://pluralsight.com/library/courses/windows-server-2012-mcsa-70-411/table-of-contents)
     - [Windows Server 2012 R2 (70-411) File and Print Services](https://pluralsight.com/library/courses/windows-server-2012-70-411-file-print-services)
 
-
-
 * Ethical Hacking (CEH Prep) Path
-    - [Ethical Hacking: Penetration Testing](https://app.pluralsight.com/library/courses/ethical-hacking-penetration-testing/table-of-contents)
-    - [SSCP®: Cryptography](https://app.pluralsight.com/library/courses/sscp2015-cryptography/table-of-contents)
-    - [Ethical Hacking: Cryptography](https://app.pluralsight.com/library/courses/ethical-hacking-cryptography/table-of-contents)
-    - [Ethical Hacking: Cloud Computing](https://app.pluralsight.com/library/courses/ethical-hacking-cloud-computing/table-of-contents)
-    - [Ethical Hacking: Evading IDS, Firewalls, and Honeypots](https://app.pluralsight.com/library/courses/ethical-hacking-evading-ids-firewalls-honeypots/table-of-contents)
-    - [Ethical Hacking: Hacking Mobile Platforms](https://app.pluralsight.com/library/courses/ethical-hacking-mobile-platforms/table-of-contents)
-    - [Ethical Hacking: Hacking Wireless Networks](https://app.pluralsight.com/library/courses/ethical-hacking-wireless-networks/table-of-contents)
-    - [Ethical Hacking: SQL Injection](https://app.pluralsight.com/library/courses/ethical-hacking-sql-injection/table-of-contents)
-    - [Ethical Hacking: Hacking Web Applications](https://app.pluralsight.com/library/courses/ethical-hacking-web-applications/table-of-contents)
-    - [Ethical Hacking: Hacking Web Servers](https://app.pluralsight.com/library/courses/ethical-hacking-web-servers/table-of-contents)
-    - [Ethical Hacking: Session Hijacking](https://app.pluralsight.com/library/courses/ethical-hacking-session-hijacking/table-of-contents)
-    - [Ethical Hacking: Denial of Service](https://app.pluralsight.com/library/courses/ethical-hacking-denial-service/table-of-contents)
-    - [Ethical Hacking: Social Engineering](https://app.pluralsight.com/library/courses/ethical-hacking-social-engineering/table-of-contents)
-    - [Ethical Hacking: Buffer Overflow](https://app.pluralsight.com/library/courses/ethical-hacking-buffer-overflow/table-of-contents)
-    - [Ethical Hacking: Sniffing](https://app.pluralsight.com/library/courses/ethical-hacking-sniffing/table-of-contents)
-    - [Ethical Hacking: Malware Threats](https://app.pluralsight.com/library/courses/ethical-hacking-malware-threats/table-of-contents)
-    - [Ethical Hacking: System Hacking](https://app.pluralsight.com/library/courses/ethical-hacking-system-hacking/table-of-contents)
-    - [Ethical Hacking: Malware Threats](https://app.pluralsight.com/library/courses/ethical-hacking-malware-threats/table-of-contents)
-    - [Ethical Hacking: Sniffing](https://app.pluralsight.com/library/courses/ethical-hacking-sniffing/table-of-contents)
-    - [Ethical Hacking: Buffer Overflow](https://app.pluralsight.com/library/courses/ethical-hacking-buffer-overflow/table-of-contents)
-    - [Ethical Hacking: Understanding Ethical Hacking](https://app.pluralsight.com/library/courses/ethical-hacking-understanding/exercise-files)
+    - [Ethical Hacking: Understanding Ethical Hacking](https://pluralsight.com/library/courses/ethical-hacking-understanding)
+    - [Ethical Hacking: Reconnaissance/Footprinting](https://pluralsight.com/library/courses/ethical-hacking-reconnaissance-footprinting)
+    - [Ethical Hacking: Scanning Networks](https://pluralsight.com/library/courses/ethical-hacking-scanning-networks)
+    - [Ethical Hacking: Enumeration](https://pluralsight.com/library/courses/ethical-hacking-enumeration)
+    - [Ethical Hacking: System Hacking](https://pluralsight.com/library/courses/ethical-hacking-system-hacking)
+    - [Ethical Hacking: Malware Threats](https://pluralsight.com/library/courses/ethical-hacking-malware-threats)
+    - [Ethical Hacking: Sniffing](https://pluralsight.com/library/courses/ethical-hacking-sniffing)
+    - [Ethical Hacking: Buffer Overflow](https://pluralsight.com/library/courses/ethical-hacking-buffer-overflow)
+    - [Ethical Hacking: Social Engineering](https://pluralsight.com/library/courses/ethical-hacking-social-engineering)
+    - [Ethical Hacking: Denial of Service](https://pluralsight.com/library/courses/ethical-hacking-denial-service)
+    - [Ethical Hacking: Session Hijacking](https://pluralsight.com/library/courses/ethical-hacking-session-hijacking)
+    - [Ethical Hacking: Hacking Web Servers](https://pluralsight.com/library/courses/ethical-hacking-web-servers)
+    - [Ethical Hacking: Hacking Web Applications](https://pluralsight.com/library/courses/ethical-hacking-web-applications)
+    - [Ethical Hacking: SQL Injection](https://pluralsight.com/library/courses/ethical-hacking-sql-injection)
+    - [Ethical Hacking: Hacking Wireless Networks](https://pluralsight.com/library/courses/ethical-hacking-wireless-networks)
+    - [Ethical Hacking: Hacking Mobile Platforms](https://pluralsight.com/library/courses/ethical-hacking-mobile-platforms)
+    - [Ethical Hacking: Evading IDS, Firewalls, and Honeypots](https://pluralsight.com/library/courses/ethical-hacking-evading-ids-firewalls-honeypots)
+    - [Ethical Hacking: Cloud Computing](https://pluralsight.com/library/courses/ethical-hacking-cloud-computing)
+    - [Ethical Hacking: Cryptography](https://pluralsight.com/library/courses/ethical-hacking-cryptography)
+    - [SSCP®: Cryptography](https://pluralsight.com/library/courses/sscp2015-cryptography)
+    - [Ethical Hacking: Penetration Testing](https://pluralsight.com/library/courses/ethical-hacking-penetration-testing)
+
+
+
+
+
+
+
+
+
+
+
 
 
 * SCCP Path
