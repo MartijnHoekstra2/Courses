@@ -43,7 +43,7 @@
 <br />
 
 
-* ## [Managing Office 365 Identities and Requirements (70-346)](https://app.pluralsight.com/paths/certificate/office-365-70-346):ballot_box_with_check:
+* ## [Managing Office 365 Identities and Requirements (70-346)](https://app.pluralsight.com/paths/certificate/office-365-70-346) :heavy_check_mark:
     - [Provisioning Office 365](https://app.pluralsight.com/library/courses/office-365-provisioning)
     - [Planning and Implementing Networking and Security in Office 365](https://app.pluralsight.com/library/courses/planning-implementing-networking-security-o365)
     - [Managing Cloud Identities in Office 365](https://app.pluralsight.com/library/courses/managing-cloud-identities-o365)
