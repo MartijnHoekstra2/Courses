@@ -1,12 +1,14 @@
 # Courses
-------
+<br />
+<br />
 
 
 * ## [Communications for Technologists Path](https://pluralsight.com/paths/certificate/communications-for-technologists)
     - [Writing Process Instructions and Directions](https://app.pluralsight.com/library/courses/process-instructions)
     - [Writing in the Workplace: Email, Memos, Reports, and Social Messaging](https://app.pluralsight.com/library/courses/writing-workplace-email-memos-reports-social)
     - [End-user Communications for Better IT](https://app.pluralsight.com/library/courses/end-user-communications-better-it)
-------
+<br />
+<br />
 
 
 * ## [Ethical Hacking (CEH Prep) Path](https://app.pluralsight.com/paths/certificate/ethical-hacking)
