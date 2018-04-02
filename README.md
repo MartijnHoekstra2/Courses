@@ -34,7 +34,8 @@
 
 
  * ## [Installation, Storage, and Compute with Windows Server 2016 (70-740) Path](https://app.pluralsight.com/paths/certificate/installation-storage-and-compute-with-windows-server-2016-70-740)
-     - [Maintaining and Monitoring Windows Server 2016](https://app.pluralsight.com/library/courses/windows-server-2016-maintaining-monitoring)
+    - [Introducing the Windows Server 2016 MCSA and the 70-740 Exam](https://app.pluralsight.com/library/courses/windows-server-2016-mcsa-70-740-exam)
+    - [Maintaining and Monitoring Windows Server 2016](https://app.pluralsight.com/library/courses/windows-server-2016-maintaining-monitoring)
 <br />
 
 
