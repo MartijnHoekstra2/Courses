@@ -83,7 +83,8 @@
  * ## [Managing Microsoft Networks Path](https://app.pluralsight.com/paths/skills/managing-microsoft-networks)
     - [Implement Windows Server 2016 High Performance Network Solutions](https://app.pluralsight.com/library/courses/windows-server-2016-network-solutions/table-of-contents)
 ------  
-
+<br/>
+<br/>
 
  * ## Seperated courses in aphabetical order
     
