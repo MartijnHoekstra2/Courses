@@ -69,7 +69,7 @@
 
 
 * ## [SCCP Path](https://app.pluralsight.com/paths/certificate/sscp)
- - [SSCP®: Cryptography](https://app.pluralsight.com/library/courses/sscp2015-cryptography)
+    - [SSCP®: Cryptography](https://app.pluralsight.com/library/courses/sscp2015-cryptography)
 <br />
  
  
