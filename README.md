@@ -14,17 +14,16 @@
     - [End-user Communications for Better IT](https://app.pluralsight.com/library/courses/end-user-communications-better-it/table-of-contents)
     
 * [MCSA: Windows Server 2012 R2 Path](https://pluralsight.com/paths/certificate/mcsa)
-    - [Windows Server 2012 R2 (70-410) MCSA and the 70-410 Exam](https://app.pluralsight.com/library/courses/windows-server-2012-mcsa-70-410/table-of-contents)
-    - [Windows Server 2012 R2 (70-410) Install and Configure Servers](https://app.pluralsight.com/library/courses/windows-server-2012-70-410-install-configure-servers/table-of-contents)
-    - [Windows Server 2012 R2 (70-410) Core Network Services](https://app.pluralsight.com/library/courses/windows-server-2012-70-410-core-network-services/table-of-contents)    
-    - [Windows Server 2012 R2 (70-410) Administer Active Directory](https://app.pluralsight.com/library/courses/windows-server-2012-70-410-active-directory/table-of-contents)    
-    - [Windows Server 2012 R2 (70-411) MCSA and the 70-411 Exam](https://app.pluralsight.com/library/courses/windows-server-2012-mcsa-70-411/table-of-contents)
-    - [Windows Server 2012 R2 (70-411) File and Print Services](https://app.pluralsight.com/library/courses/windows-server-2012-70-411-file-print-services/table-of-contents)
+    - [Windows Server 2012 R2 (70-410) MCSA and the 70-410 Exam](https://pluralsight.com/library/courses/windows-server-2012-mcsa-70-410)
+    - [Windows Server 2012 R2 (70-410) Install and Configure Servers](https://pluralsight.com/library/courses/windows-server-2012-70-410-install-configure-servers)
+    - [Windows Server 2012 R2 (70-410) Core Network Services](https://pluralsight.com/library/courses/windows-server-2012-70-410-core-network-services)    
+    - [Windows Server 2012 R2 (70-410) Administer Active Directory](https://pluralsight.com/library/courses/windows-server-2012-70-410-active-directory)    
+    - [Windows Server 2012 R2 (70-411) MCSA and the 70-411 Exam](https://pluralsight.com/library/courses/windows-server-2012-mcsa-70-411/table-of-contents)
+    - [Windows Server 2012 R2 (70-411) File and Print Services](https://pluralsight.com/library/courses/windows-server-2012-70-411-file-print-services)
 
 
 
-    
-    * Ethical Hacking (CEH Prep) Path
+* Ethical Hacking (CEH Prep) Path
     - [Ethical Hacking: Penetration Testing](https://app.pluralsight.com/library/courses/ethical-hacking-penetration-testing/table-of-contents)
     - [SSCP®: Cryptography](https://app.pluralsight.com/library/courses/sscp2015-cryptography/table-of-contents)
     - [Ethical Hacking: Cryptography](https://app.pluralsight.com/library/courses/ethical-hacking-cryptography/table-of-contents)
