@@ -8,7 +8,7 @@
 <br />
 
 
-* ## [Ethical Hacking (CEH Prep) Path](https://app.pluralsight.com/paths/certificate/ethical-hacking)
+* ## [Ethical Hacking (CEH Prep) Path](https://app.pluralsight.com/paths/certificate/ethical-hacking):ballot_box_with_check:
     - [Ethical Hacking: Understanding Ethical Hacking](https://app.pluralsight.com/library/courses/ethical-hacking-understanding)
     - [Ethical Hacking: Reconnaissance/Footprinting](https://app.pluralsight.com/library/courses/ethical-hacking-reconnaissance-footprinting)
     - [Ethical Hacking: Scanning Networks](https://app.pluralsight.com/library/courses/ethical-hacking-scanning-networks)
@@ -43,7 +43,7 @@
 <br />
 
 
-* ## [Managing Office 365 Identities and Requirements (70-346)](https://app.pluralsight.com/paths/certificate/office-365-70-346)
+* ## [Managing Office 365 Identities and Requirements (70-346)](https://app.pluralsight.com/paths/certificate/office-365-70-346):ballot_box_with_check:
     - [Provisioning Office 365](https://app.pluralsight.com/library/courses/office-365-provisioning)
     - [Planning and Implementing Networking and Security in Office 365](https://app.pluralsight.com/library/courses/planning-implementing-networking-security-o365)
     - [Managing Cloud Identities in Office 365](https://app.pluralsight.com/library/courses/managing-cloud-identities-o365)
