@@ -104,6 +104,8 @@
     - [Pitching Your Idea Effectively](https://app.pluralsight.com/library/courses/pitching-idea-effectively)
 
     - [Reporting with PowerShell HTML and Enhanced HTML](https://app.pluralsight.com/library/courses/reporting-powershell-enhanced-html)
+    
+    - [Planning and Managing SharePoint 2016 Productivity Solutions](https://app.pluralsight.com/library/courses/sharepoint-2016-productivity-solutions)
 
     - [Understanding Machine Learning](https://app.pluralsight.com/library/courses/understanding-machine-learning)
 
