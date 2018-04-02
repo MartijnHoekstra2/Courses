@@ -7,11 +7,12 @@
     - [Implement and Manage Identities Using Azure AD Connect for Office 365](https://app.pluralsight.com/library/courses/implement-manage-identities-azure-ad-o365)
     - [Implementing and Managing Federated Identities for SSO](https://app.pluralsight.com/library/courses/sso-federated-identities-managing-implementing)
     - [Monitoring and Troubleshooting Office 365 Availability and Usage](https://app.pluralsight.com/library/courses/o365-monitor-troubleshoot-availability-usage)
-    
-    * Communications for Technologists Path
-    - [Writing in the Workplace: Email, Memos, Reports, and Social Messaging](https://app.pluralsight.com/library/courses/writing-workplace-email-memos-reports-social/table-of-contents)
-    - [Writing Process Instructions and Directions](https://app.pluralsight.com/library/courses/process-instructions/table-of-contents)
-    - [End-user Communications for Better IT](https://app.pluralsight.com/library/courses/end-user-communications-better-it/table-of-contents)
+
+
+* Communications for Technologists Path
+    - [Writing in the Workplace: Email, Memos, Reports, and Social Messaging](https://pluralsight.com/library/courses/writing-workplace-email-memos-reports-social)
+    - [Writing Process Instructions and Directions](https://pluralsight.com/library/courses/process-instructions)
+    - [End-user Communications for Better IT](https://pluralsight.com/library/courses/end-user-communications-better-it)
     
 * [MCSA: Windows Server 2012 R2 Path](https://pluralsight.com/paths/certificate/mcsa)
     - [Windows Server 2012 R2 (70-410) MCSA and the 70-410 Exam](https://pluralsight.com/library/courses/windows-server-2012-mcsa-70-410)
@@ -21,7 +22,7 @@
     - [Windows Server 2012 R2 (70-411) MCSA and the 70-411 Exam](https://pluralsight.com/library/courses/windows-server-2012-mcsa-70-411/table-of-contents)
     - [Windows Server 2012 R2 (70-411) File and Print Services](https://pluralsight.com/library/courses/windows-server-2012-70-411-file-print-services)
 
-* Ethical Hacking (CEH Prep) Path
+###* [Ethical Hacking (CEH Prep) Path](https://app.pluralsight.com/paths/certificate/ethical-hacking)
     - [Ethical Hacking: Understanding Ethical Hacking](https://pluralsight.com/library/courses/ethical-hacking-understanding)
     - [Ethical Hacking: Reconnaissance/Footprinting](https://pluralsight.com/library/courses/ethical-hacking-reconnaissance-footprinting)
     - [Ethical Hacking: Scanning Networks](https://pluralsight.com/library/courses/ethical-hacking-scanning-networks)
