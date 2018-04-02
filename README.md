@@ -1,6 +1,6 @@
 # Courses
 
-* Managing Office 365 Identities and Requirements (70-346)
+* ## Managing Office 365 Identities and Requirements (70-346)
     - [Provisioning Office 365](https://app.pluralsight.com/library/courses/office-365-provisioning)
     - [Planning and Implementing Networking and Security in Office 365](https://app.pluralsight.com/library/courses/planning-implementing-networking-security-o365)
     - [Managing Cloud Identities in Office 365](https://app.pluralsight.com/library/courses/managing-cloud-identities-o365)
@@ -9,12 +9,12 @@
     - [Monitoring and Troubleshooting Office 365 Availability and Usage](https://app.pluralsight.com/library/courses/o365-monitor-troubleshoot-availability-usage)
 
 
-* Communications for Technologists Path
+* ## Communications for Technologists Path
     - [Writing in the Workplace: Email, Memos, Reports, and Social Messaging](https://pluralsight.com/library/courses/writing-workplace-email-memos-reports-social)
     - [Writing Process Instructions and Directions](https://pluralsight.com/library/courses/process-instructions)
     - [End-user Communications for Better IT](https://pluralsight.com/library/courses/end-user-communications-better-it)
     
-* [MCSA: Windows Server 2012 R2 Path](https://pluralsight.com/paths/certificate/mcsa)
+* ## [MCSA: Windows Server 2012 R2 Path](https://pluralsight.com/paths/certificate/mcsa)
     - [Windows Server 2012 R2 (70-410) MCSA and the 70-410 Exam](https://pluralsight.com/library/courses/windows-server-2012-mcsa-70-410)
     - [Windows Server 2012 R2 (70-410) Install and Configure Servers](https://pluralsight.com/library/courses/windows-server-2012-70-410-install-configure-servers)
     - [Windows Server 2012 R2 (70-410) Core Network Services](https://pluralsight.com/library/courses/windows-server-2012-70-410-core-network-services)    
@@ -45,30 +45,16 @@
     - [SSCP®: Cryptography](https://pluralsight.com/library/courses/sscp2015-cryptography)
     - [Ethical Hacking: Penetration Testing](https://pluralsight.com/library/courses/ethical-hacking-penetration-testing)
 
-
-
-
-
-
-
-
-
-
-
-
-
-* SCCP Path
+* ## SCCP Path
  - [SSCP®: Cryptography](https://app.pluralsight.com/library/courses/sscp2015-cryptography/table-of-contents)
     
-* Windows PowerShell Path
+* ## Windows PowerShell Path
     - [PowerShell v3/v4 Essentials for IT Admins Part 1](https://app.pluralsight.com/library/courses/powershell-v3-essentials-it-pt1/table-of-contents)
     
- * Windows Server Management Path
-    - [Maintaining and Monitoring Windows Server 2016](https://app.pluralsight.com/library/courses/windows-server-2016-maintaining-monitoring/table-of-contents)
- 
+* ## Windows Server Management Path
+    - [Maintaining and Monitoring Windows Server 2016](https://app.pluralsight.com/library/courses/windows-server-2016-maintaining-monitoring/table-of-contents) 
  * Installation, Storage, and Compute with Windows Server 2016 (70-740) Path
-     - [Maintaining and Monitoring Windows Server 2016](https://app.pluralsight.com/library/courses/windows-server-2016-maintaining-monitoring/table-of-contents)
-  
+     - [Maintaining and Monitoring Windows Server 2016](https://app.pluralsight.com/library/courses/windows-server-2016-maintaining-monitoring/table-of-contents)  
  * Networking with Windows Server 2016 (70-741) Path
     - [Implement Windows Server 2016 High Performance Network Solutions](https://app.pluralsight.com/library/courses/windows-server-2016-network-solutions/table-of-contents)
  
