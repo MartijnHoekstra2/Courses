@@ -8,7 +8,7 @@
 <br />
 
 
-* ## [Ethical Hacking (CEH Prep) Path](https://app.pluralsight.com/paths/certificate/ethical-hacking):ballot_box_with_check:
+* ## [Ethical Hacking (CEH Prep) Path](https://app.pluralsight.com/paths/certificate/ethical-hacking) :heavy_check_mark:
     - [Ethical Hacking: Understanding Ethical Hacking](https://app.pluralsight.com/library/courses/ethical-hacking-understanding)
     - [Ethical Hacking: Reconnaissance/Footprinting](https://app.pluralsight.com/library/courses/ethical-hacking-reconnaissance-footprinting)
     - [Ethical Hacking: Scanning Networks](https://app.pluralsight.com/library/courses/ethical-hacking-scanning-networks)
