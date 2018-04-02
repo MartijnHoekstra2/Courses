@@ -30,7 +30,17 @@
     - [Ethical Hacking: Cryptography](https://app.pluralsight.com/library/courses/ethical-hacking-cryptography)
     - [SSCP®: Cryptography](https://app.pluralsight.com/library/courses/sscp2015-cryptography)
     - [Ethical Hacking: Penetration Testing](https://app.pluralsight.com/library/courses/ethical-hacking-penetration-testing)
-------
+<br />
+
+
+ * ## [Installation, Storage, and Compute with Windows Server 2016 (70-740) Path](https://app.pluralsight.com/paths/certificate/installation-storage-and-compute-with-windows-server-2016-70-740)
+     - [Maintaining and Monitoring Windows Server 2016](https://app.pluralsight.com/library/courses/windows-server-2016-maintaining-monitoring)
+<br />
+
+
+ * ## [Managing Microsoft Networks Path](https://app.pluralsight.com/paths/skills/managing-microsoft-networks)
+    - [Implement Windows Server 2016 High Performance Network Solutions](https://app.pluralsight.com/library/courses/windows-server-2016-network-solutions)
+<br />
 
 
 * ## [Managing Office 365 Identities and Requirements (70-346)](https://app.pluralsight.com/paths/certificate/office-365-70-346)
@@ -40,7 +50,7 @@
     - [Implement and Manage Identities Using Azure AD Connect for Office 365](https://app.pluralsight.com/library/courses/implement-manage-identities-azure-ad-o365)
     - [Implementing and Managing Federated Identities for SSO](https://app.pluralsight.com/library/courses/sso-federated-identities-managing-implementing)
     - [Monitoring and Troubleshooting Office 365 Availability and Usage](https://app.pluralsight.com/library/courses/o365-monitor-troubleshoot-availability-usage)
-------
+<br />
 
 
 * ## [MCSA: Windows Server 2012 R2 Path](https://pluralsight.com/paths/certificate/mcsa)
@@ -50,40 +60,29 @@
     - [Windows Server 2012 R2 (70-410) Administer Active Directory](https://app.pluralsight.com/library/courses/windows-server-2012-70-410-active-directory)    
     - [Windows Server 2012 R2 (70-411) MCSA and the 70-411 Exam](https://app.pluralsight.com/library/courses/windows-server-2012-mcsa-70-411/table-of-contents)
     - [Windows Server 2012 R2 (70-411) File and Print Services](https://app.pluralsight.com/library/courses/windows-server-2012-70-411-file-print-services)
-------
+<br />
+
+
+ * ## [Networking with Windows Server 2016 (70-741) Path](https://app.pluralsight.com/paths/certificate/networking-with-windows-server-2016-70-741)
+    - [Implement Windows Server 2016 High Performance Network Solutions](https://app.pluralsight.com/library/courses/windows-server-2016-network-solutions)
+<br />
 
 
 * ## [SCCP Path](https://app.pluralsight.com/paths/certificate/sscp)
  - [SSCP®: Cryptography](https://app.pluralsight.com/library/courses/sscp2015-cryptography)
- ------
+<br />
  
  
 * ## [Windows PowerShell Path](https://app.pluralsight.com/paths/skills/powershell)
     - [The Case for PowerShell](https://app.pluralsight.com/library/courses/case-for-powershell)
     - [PowerShell v3/v4 Essentials for IT Admins Part 1](https://app.pluralsight.com/library/courses/powershell-v3-essentials-it-pt1)
-------
+<br />
    
     
 * ## [Windows Server Management Path](https://app.pluralsight.com/paths/skills/windows-server-management)
     - [Maintaining and Monitoring Windows Server 2016](https://app.pluralsight.com/library/courses/windows-server-2016-maintaining-monitoring)
-------
-    
-    
- * ## [Installation, Storage, and Compute with Windows Server 2016 (70-740) Path](https://app.pluralsight.com/paths/certificate/installation-storage-and-compute-with-windows-server-2016-70-740)
-     - [Maintaining and Monitoring Windows Server 2016](https://app.pluralsight.com/library/courses/windows-server-2016-maintaining-monitoring)
-------
-
-
- * ## [Networking with Windows Server 2016 (70-741) Path](https://app.pluralsight.com/paths/certificate/networking-with-windows-server-2016-70-741)
-    - [Implement Windows Server 2016 High Performance Network Solutions](https://app.pluralsight.com/library/courses/windows-server-2016-network-solutions)
-------
-    
- 
- * ## [Managing Microsoft Networks Path](https://app.pluralsight.com/paths/skills/managing-microsoft-networks)
-    - [Implement Windows Server 2016 High Performance Network Solutions](https://app.pluralsight.com/library/courses/windows-server-2016-network-solutions/table-of-contents)
-------  
 <br/>
-<br/>
+
 
  * ## Seperated courses in aphabetical order:
 [Administering Google Apps for Work](https://app.pluralsight.com/library/courses/google-apps-work-administering/table-of-contents)
