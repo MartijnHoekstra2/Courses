@@ -84,7 +84,7 @@
 <br/>
 
 
- * ## Seperated courses in aphabetical order:
+ * ## Seperated courses in aphabetical order
     - [Administering Google Apps for Work](https://app.pluralsight.com/library/courses/google-apps-work-administering/table-of-contents)
 
     - [Blockchain Fundamentals](https://app.pluralsight.com/library/courses/blockchain-fundamentals)
