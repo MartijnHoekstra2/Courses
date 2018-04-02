@@ -111,4 +111,4 @@
 
     - [Windows Performance Monitoring Fundamentals](https://app.pluralsight.com/library/courses/windows-performance-monitoring-fundamentals)
 
-    - [Wireshark 2.0 Fundamentals](https://app.pluralsight.com/library/courses/wireshark-2-0-fundamentals)
+    - [Wireshark 2.0: Fundamentals](https://app.pluralsight.com/library/courses/wireshark-2-0-fundamentals)
