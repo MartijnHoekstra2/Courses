@@ -1,6 +1,4 @@
 # Courses
-<br />
-<br />
 
 
 * ## [Communications for Technologists Path](https://pluralsight.com/paths/certificate/communications-for-technologists)
