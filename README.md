@@ -2,7 +2,7 @@
 ------
 
 
-* ## Managing Office 365 Identities and Requirements (70-346)
+* ## [Managing Office 365 Identities and Requirements (70-346)](https://pluralsight.com/paths/certificate/office-365-70-346)
     - [Provisioning Office 365](https://app.pluralsight.com/library/courses/office-365-provisioning)
     - [Planning and Implementing Networking and Security in Office 365](https://app.pluralsight.com/library/courses/planning-implementing-networking-security-o365)
     - [Managing Cloud Identities in Office 365](https://app.pluralsight.com/library/courses/managing-cloud-identities-o365)
