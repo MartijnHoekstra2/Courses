@@ -9,7 +9,7 @@
     - [Monitoring and Troubleshooting Office 365 Availability and Usage](https://app.pluralsight.com/library/courses/o365-monitor-troubleshoot-availability-usage)
 
 
-* ## Communications for Technologists Path
+* ## [Communications for Technologists Path](https://pluralsight.com/paths/certificate/communications-for-technologists)
     - [Writing in the Workplace: Email, Memos, Reports, and Social Messaging](https://pluralsight.com/library/courses/writing-workplace-email-memos-reports-social)
     - [Writing Process Instructions and Directions](https://pluralsight.com/library/courses/process-instructions)
     - [End-user Communications for Better IT](https://pluralsight.com/library/courses/end-user-communications-better-it)
