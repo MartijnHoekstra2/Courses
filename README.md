@@ -93,6 +93,8 @@
     - [Device Hardening](https://app.pluralsight.com/library/courses/device-hardening-cnd)
 
     - [Establishing Goals, Roles, and Guidelines for a Team](https://app.pluralsight.com/library/courses/establish-team-goals-roles-guidelines)
+    
+    - [Code School: Git Real](https://app.pluralsight.com/library/courses/code-school-git-real)
 
     - [Implement Active Directory Domain Services in Windows Server 2016](https://app.pluralsight.com/library/courses/windows-server-2016-active-directory-domain-services-implement)
 
