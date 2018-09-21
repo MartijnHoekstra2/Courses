@@ -88,6 +88,7 @@
  * ## Seperated courses in aphabetical order
     - [Administering Google Apps for Work](https://app.pluralsight.com/library/courses/google-apps-work-administering/table-of-contents)
     - [Blockchain Fundamentals](https://app.pluralsight.com/library/courses/blockchain-fundamentals)
+    - [Building an IT Strategic Plan](https://app.pluralsight.com/library/courses/building-it-strategic-plan/recommended-courses)
     - [Device Hardening](https://app.pluralsight.com/library/courses/device-hardening-cnd)
     - [Establishing Goals, Roles, and Guidelines for a Team](https://app.pluralsight.com/library/courses/establish-team-goals-roles-guidelines)
     - [Code School: Git Real](https://app.pluralsight.com/library/courses/code-school-git-real)
