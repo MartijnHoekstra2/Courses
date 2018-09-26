@@ -64,6 +64,12 @@
 <br />
 
 
+* ## Micrososft Azure
+    - [Microsoft Azure The Big Picture](https://app.pluralsight.com/library/courses/microsoft-azure-big-picture/)
+    - [Managing Microsoft Azure Subscriptions](https://app.pluralsight.com/library/courses/microsoft-azure-subscriptions-managing/)
+<br />
+
+
  * ## [Networking with Windows Server 2016 (70-741) Path](https://app.pluralsight.com/paths/certificate/networking-with-windows-server-2016-70-741)
     - [Implement Windows Server 2016 High Performance Network Solutions](https://app.pluralsight.com/library/courses/windows-server-2016-network-solutions)
 <br />
