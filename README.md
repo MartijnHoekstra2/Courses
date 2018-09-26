@@ -62,6 +62,7 @@
 * [Microsoft Azure The Big Picture](https://app.pluralsight.com/library/courses/microsoft-azure-big-picture/)
 * [Managing Microsoft Azure Subscriptions](https://app.pluralsight.com/library/courses/microsoft-azure-subscriptions-managing/)
 * [Identifying Roles and Responsibilities in Microsoft Azure](https://app.pluralsight.com/library/courses/microsoft-azure-roles-responsibilities-identifying)
+* [Using Microsoft Azure Resource Groups](https://app.pluralsight.com/library/courses/microsoft-azure-resource-groups-using)
 
 
 ## [Networking with Windows Server 2016 (70-741) Path](https://app.pluralsight.com/paths/certificate/networking-with-windows-server-2016-70-741)
