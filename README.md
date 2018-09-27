@@ -96,6 +96,7 @@
 * [PHP: Get Started](https://app.pluralsight.com/library/courses/php-get-started)
 * [Pitching Your Idea Effectively](https://app.pluralsight.com/library/courses/pitching-idea-effectively)
 * [Planning and Managing SharePoint 2016 Productivity Solutions](https://app.pluralsight.com/library/courses/sharepoint-2016-productivity-solutions)
+* [Quantum Computing The Big Picture](https://app.pluralsight.com/library/courses/quantum-computing-big-picture)
 * [Reporting with PowerShell HTML and Enhanced HTML](https://app.pluralsight.com/library/courses/reporting-powershell-enhanced-html)
 * [State of Blockchain Executive Briefing](https://app.pluralsight.com/library/courses/state-of-blockchain-executive-briefing)
 * [Understanding Machine Learning](https://app.pluralsight.com/library/courses/understanding-machine-learning)
