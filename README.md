@@ -99,6 +99,7 @@
 * [Quantum Computing The Big Picture](https://app.pluralsight.com/library/courses/quantum-computing-big-picture)
 * [Reporting with PowerShell HTML and Enhanced HTML](https://app.pluralsight.com/library/courses/reporting-powershell-enhanced-html)
 * [State of Blockchain Executive Briefing](https://app.pluralsight.com/library/courses/state-of-blockchain-executive-briefing)
+* [The Role of Shadow IT and How to Bring it out of the Darkness](https://app.pluralsight.com/library/courses/shadow-it-bring-out-darkness)
 * [Understanding Machine Learning](https://app.pluralsight.com/library/courses/understanding-machine-learning)
 * [Windows Performance Monitoring Fundamentals](https://app.pluralsight.com/library/courses/windows-performance-monitoring-fundamentals)
 * [Windows Server 2012 R2 Certificate Services](https://app.pluralsight.com/library/courses/windows-server-2012-r2-certificate-services)
